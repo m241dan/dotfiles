@@ -1,3 +1,6 @@
 [submodule "neovim-init"]
 	path = neovim-init
 	url = https://github.com/m241dan/neovim-init
+[submodule "neovim-no-download-docker"]
+	path = neovim-no-download-docker
+	url = https://github.com/m241dan/neovim-no-download-docker
